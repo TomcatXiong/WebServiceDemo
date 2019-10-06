@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebServiceDemo</string>
+    <string name="jetty_not_installed">Jetty Not Installed </string>
+</resources>
